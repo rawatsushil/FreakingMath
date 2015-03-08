@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res" >
+            <file
+                name="back"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-hdpi\back.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="background"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-hdpi\background.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="correct"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-hdpi\correct.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="me"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-hdpi\me.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="start"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-hdpi\start.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="wrong"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-hdpi\wrong.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="back"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-mdpi\back.jpg"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="background"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-mdpi\background.jpg"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="correct"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-mdpi\correct.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="me"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-mdpi\me.jpg"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="start"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-mdpi\start.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="wrong"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-mdpi\wrong.jpg"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="back"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-xhdpi\back.jpg"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="background"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-xhdpi\background.jpg"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="correct"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-xhdpi\correct.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="me"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-xhdpi\me.jpg"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="start"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-xhdpi\start.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="wrong"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-xhdpi\wrong.jpg"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="back"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-xxhdpi\back.jpg"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="background"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-xxhdpi\background.jpg"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="correct"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-xxhdpi\correct.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="me"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-xxhdpi\me.jpg"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="start"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-xxhdpi\start.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="wrong"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\drawable-xxhdpi\wrong.jpg"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_freak"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\layout\activity_freak.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="freak"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\menu\freak.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >freaking_math
+                </string>
+                <string name="title_activity_main" >MainActivity
+                </string>
+                <string name="title_activity_freak" >SPEED_MATH
+                </string>
+            </file>
+            <file
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\values-v21\styles.xml"
+                qualifiers="v21" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Material.Light" >
+                </style>
+            </file>
+            <file
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+            <file
+                name="wrong_b"
+                path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\main\res\layout\wrong_b.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\build\generated\res\rs\debug" />
+        <source path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Sushil-HP\AndroidStudioProjects\freaking_math\app\src\debug\res" />
+    </dataSet>
+
+</merger>
