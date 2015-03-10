@@ -8,6 +8,7 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.os.CountDownTimer;
+import android.util.Log;
 import android.view.Menu;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -18,7 +19,6 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import java.util.Timer;
 
 public class MainActivity extends Activity {
 
@@ -26,13 +26,13 @@ public class MainActivity extends Activity {
     TextView text,text2;
     int score,a2,ans,rnd,ran,val,a,b,val2;
     Button correct,wrong;
-    private Timer mytimer;
     List<Integer> arr2 = new ArrayList<Integer>();
     AlertDialog.Builder builder;
     SharedPreferences sh;
     public static String MYPREF="myPref";
     public int High=0;
     ProgressBar mProgressBar;
+    CountDownTimer time;
 
 
     @Override
@@ -66,9 +66,10 @@ public class MainActivity extends Activity {
         });
 
 
-        new CountDownTimer(3000,0001){      //1st arg is the time of counter and 2nd is after how much time on tick will call itself
-            public void onTick(long millisUntilFinished){//this is the time ontick will call itself first initially or after finish
-                    mProgressBar.setProgress((int)millisUntilFinished/100);
+        time=new CountDownTimer(3000,0001){      //1st arg is the time of counter and 2nd is after how much time on tick will call itself
+            public void onTick(long millisUntilFinished){
+                Log.d("de", String.valueOf(millisUntilFinished));
+                    mProgressBar.setProgress((int)(millisUntilFinished/30));
                     if(val2!=0) {
                         rnd = ans = 5;
                         text.setText(3 + "+" + 2 + "=" + rnd);
@@ -232,4 +233,10 @@ public class MainActivity extends Activity {
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
+
+    public void onBackPressed(){
+        time.cancel();
+        finish();
+    }
 }
+
